@@ -1,0 +1,21 @@
+{
+  "name": "teazzi-menu-api",
+  "version": "1.0.0",
+  "description": "RESTful API Manajemen Menu Minuman Teazzi - Final Project KSM Veterantech Backend Basic",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "express",
+    "mongoose",
+    "rest-api",
+    "teazzi"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.1"
+  }
+}
